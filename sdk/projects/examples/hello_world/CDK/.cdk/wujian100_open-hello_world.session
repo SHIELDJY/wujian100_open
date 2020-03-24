@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session Name="E:\Documents\GitHub\wujian100_open\sdk\projects\examples\hello_world\CDK\wujian100_open-hello_world.cdkws">
+  <int Value="0" Name="m_selectedTab"/>
+  <wxString Value="E:\Documents\GitHub\wujian100_open\sdk\projects\examples\hello_world\CDK\wujian100_open-hello_world.cdkws" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="E:\Documents\GitHub\wujian100_open\sdk\projects\examples\hello_world\main.c" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="7" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="E:\Documents\GitHub\wujian100_open\sdk\projects\examples\hello_world\configs\csi_config.h" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="E:\Documents\GitHub\wujian100_open\sdk\csi_driver\include\drv_gpio.h" Name="FileName"/>
+      <int Value="56" Name="FirstVisibleLine"/>
+      <int Value="71" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
+  <SerializedObject Name="m_breakpoints">
+    <long Value="0" Name="Count"/>
+  </SerializedObject>
+</Session>
